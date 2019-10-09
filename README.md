@@ -1,4 +1,5 @@
 This is a Meme Generator app build using # React, HTML5 and CSS3.
+
 In the project directory, you can run:
 
 ### `npm start`
